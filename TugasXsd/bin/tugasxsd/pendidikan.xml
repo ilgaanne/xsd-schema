@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pendidikan Data="Mahasiswa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pendidikan.xsd">
+	
+	<nama>Audy Bio Firdaus</nama>
+	<asal>Bandung</asal>
+	<fakultas>Ilmu Komunikasi</fakultas>
+	<jurusan>Komunikasi</jurusan>
+	<asalsekolah>Taruna Bakti</asalsekolah>
+	<jk>Laki-laki</jk>
+	<tgllahir>11 Februari</tgllahir>
+	<alamat>Antapani</alamat>
+	<email>audy_bio@gmail.com</email>
+	<kampus nama="Universitas Islam Bandung">
+		<alamat>Jl. Tamansari No.1, 20, 22, 24, 26 Bandung</alamat>
+	</kampus>
+	
+	<nama>Dea Agningtyas</nama>
+	<asal>Cilegon</asal>
+	<fakultas>Fakultas Teknik</fakultas>
+	<jurusan>Teknik Industri</jurusan>
+	<asalsekolah>SMA 2 KS</asalsekolah>
+	<jk>Perempuan</jk>
+	<tgllahir>26 Mei</tgllahir>
+	<alamat>Dago</alamat>
+	<email>deaagntys@gmail.com</email>
+	<kampus nama="Universitas Islam Bandung">
+		<alamat>Jl. Tamansari No.1, 20, 22, 24, 26 Bandung</alamat>
+	</kampus>
+	
+	<nama>Hana Rina Sari</nama>
+	<asal>Bandung</asal>
+	<fakultas>Fakultas Kedokteran</fakultas>
+	<jurusan>Kedokteran</jurusan>
+	<asalsekolah>SMA Negeri 20 Bandung</asalsekolah>
+	<jk>Perempuan</jk>
+	<tgllahir>26 April</tgllahir>
+	<alamat>Tamansari</alamat>
+	<email>hanarina@gmail.com</email>
+	<kampus nama="Universitas Islam Bandung">
+		<alamat>Jl. Tamansari No.1, 20, 22, 24, 26 Bandung</alamat>
+	</kampus>
+	
+	<nama>ADINDA RIZKY AMALIA</nama>
+	<asal>Bandung</asal>
+	<fakultas>Fakultas Kedokteran</fakultas>
+	<jurusan>Kedokteran</jurusan>
+	<asalsekolah>SMA Negeri 2 Bandung</asalsekolah>
+	<jk>Perempuan</jk>
+	<tgllahir>26 Desember</tgllahir>
+	<alamat>Dago</alamat>
+	<email>adindarizky@gmail.com</email>
+	<kampus nama="Universitas Islam Bandung">
+		<alamat>Jl. Tamansari No.1, 20, 22, 24, 26 Bandung</alamat>
+	</kampus>
+	
+	<nama>YAZEED AL BASTHOMY</nama>
+	<asal>Jakarta</asal>
+	<fakultas>Fakultas Teknik</fakultas>
+	<jurusan>Teknik Pertambangan</jurusan>
+	<asalsekolah>SMA Al-azhar</asalsekolah>
+	<jk>Laki-laki</jk>
+	<tgllahir>26 Mei</tgllahir>
+	<alamat>Dago</alamat>
+	<email>yazeed@gmail.com</email>
+	<kampus nama="Universitas Islam Bandung">
+		<alamat>Jl. Tamansari No.1, 20, 22, 24, 26 Bandung</alamat>
+	</kampus>
+</pendidikan>
